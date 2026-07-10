@@ -12,14 +12,9 @@
 [![PWA](https://img.shields.io/badge/PWA-Installable-5A0FC8?logo=pwa&logoColor=white&style=for-the-badge)](#-privacy--offline-first)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-DB4035?style=for-the-badge)](./LICENSE)
 
-**[🚀 Open Live App](#)** &nbsp;·&nbsp; **[✨ Features](./FEATURES.md)** &nbsp;·&nbsp; **[📖 Full Feature Guide](./FEATURES_DETAILED.md)** &nbsp;·&nbsp; **[💭 About](./ABOUT.md)**
+**[🚀 Open Live App] -->> https://ledger-five-rouge.vercel.app/(#)** &nbsp;·&nbsp; **[✨ Features](./FEATURES.md)** &nbsp;·&nbsp; **[📖 Full Feature Guide](./FEATURES_DETAILED.md)** &nbsp;·&nbsp; **[💭 About](./ABOUT.md)**
 
 </div>
-
----
-
-> [!NOTE]
-> 🔗 Replace the **Open Live App** link above with your deployed Vercel / GitHub Pages URL.
 
 ---
 
@@ -144,9 +139,7 @@ Since this is a static app with no backend, treat any in-app access gate as a *c
 |---|---|
 | 📋 [FEATURES.md](./FEATURES.md) | Quick-scan feature list |
 | 📖 [FEATURES_DETAILED.md](./FEATURES_DETAILED.md) | Every feature, explained in depth |
-| 💭 [ABOUT.md](./ABOUT.md) | The story and philosophy behind Ledger |
 | 📝 [DESCRIPTION.md](./DESCRIPTION.md) | Short-form project description |
-| 🤝 [CONTRIBUTING.md](./CONTRIBUTING.md) | How to report bugs or suggest features |
 | 🗓️ [CHANGELOG.md](./CHANGELOG.md) | Version history |
 | ⚖️ [LICENSE](./LICENSE) | Usage terms |
 
